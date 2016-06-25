@@ -1,0 +1,55 @@
+#openLine {
+    margin-top: 0px;
+    border-color: gray;
+    border-width: 2px;
+}
+#rqm {
+    margin-top: 10px;
+    font-family: monospace;
+}
+#main {
+    margin-top: 60px;
+}
+#opening {
+    margin-left: 300px;
+}
+#quote {
+    margin-left: 440px;
+    margin-right: 440px;
+    margin-top: -40px;
+    text-align: center;
+    font-family: Underdog;
+    font-size: 25px;
+}
+#closing {
+    margin-left: 920px;
+    margin-top: -60px;
+}
+#btn {
+    margin-top: 30px;
+    padding-left: 800px
+}
+#closeLine {
+    border-color: gray;
+    border-width: 2px;
+    margin-top: 60px;
+}
+#credits {
+    text-align: right;
+    padding-right: 50px;
+    font-family: monospace;
+}
+#contact {
+    text-align: right;
+    padding-right: 33px;
+    font-family: monospace;
+    margin-top: -5px;
+}
+#twitter {
+    text-align: left;
+    font-size: 20px;
+    font-family: monospace;
+    margin-left: 30px; 
+    margin-top: -70px;
+}
+    
